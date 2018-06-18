@@ -1,0 +1,120 @@
+body{
+    width: 100%;
+    
+}
+
+.ttr{
+    padding: 10vh;
+    width: 60%;
+}    
+.ow1{
+    position:absolute;
+     right: 8%;
+   
+}
+.ow2{
+    position:absolute; 
+     right: 8%;
+}
+.ow3{
+position: absolute; 
+    right: 8%;
+}
+.ow4{
+    position: absolute;
+    left: 15%;
+    top: 30vh;
+}
+.ow5{
+   position: absolute;
+    left: 70%;
+   top:35vh;
+}
+
+
+
+
+
+
+.ha1{
+    position: absolute;
+    left: 95%;
+    top:20vh;
+}
+
+.ha2{
+   position: absolute;
+    left: 55%; 
+    top: 35vh;
+}
+
+.ha3{
+  position: absolute;
+    left: 20%;
+    top: 60vh;
+}
+.ha4{
+   position: absolute;
+    left: 23%;
+    top: 70vh; 
+    z-index: 1;
+}
+
+.ha5{
+     position: absolute;
+    left: 70%;
+    top: 80vh; 
+}
+
+.re1{
+    position: absolute;
+    top: 100vh;
+    left: 100%;
+    
+}
+
+.re2{
+     position: absolute;
+    top: 100vh;
+    left: 100%;
+   
+   }
+.re3{
+     position: absolute;
+    top: 120vh;
+    left: 50%;
+   }
+
+.mi1{
+  position: absolute;
+    top: 190vh;
+    left: 16%;
+   }
+
+.mi2{
+   position: absolute;
+    top: 210vh;
+    left: 40%;
+}
+.mi3{
+   position: absolute;
+    top: 250vh;
+    left: 130vh;
+}
+.mi4{
+position: absolute;
+    top: 247vh;
+    left: 43%;
+}
+.mi5{
+   position: absolute;
+    top: 220vh;
+   left: 65%
+    
+}
+
+.tt{
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-bottom: 18px;
+}
